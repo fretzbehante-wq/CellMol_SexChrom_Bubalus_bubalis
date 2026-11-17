@@ -108,8 +108,3 @@ The screenshots provide evidence of the procedures performed in Galaxy.
 - The resulting X:A ratio suggested an XY-like dosage pattern, but the final interpretation was inconclusive because of very low autosomal sequencing depth.
 - Original large FASTA, FASTQ, and BAM files were retained outside GitHub.
 
-## References
-
-1. [NCBI Genome Assembly — GCF_019923935.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_019923935.1/)
-2. [NCBI SRA — SRR27345303](https://www.ncbi.nlm.nih.gov/sra/?term=SRR27345303)
-3. [Galaxy](https://usegalaxy.org/)
