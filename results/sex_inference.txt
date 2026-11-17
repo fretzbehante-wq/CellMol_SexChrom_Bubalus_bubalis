@@ -1,0 +1,5 @@
+Median autosome depth: 0.722
+X / A ratio: 0.622
+Y / A ratio: NA
+Dosage interpretation: Inconclusive: very low autosomal depth
+Compare with BioSample sex and discuss limitations.
