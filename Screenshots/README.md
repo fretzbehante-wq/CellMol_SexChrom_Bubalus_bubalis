@@ -98,7 +98,7 @@ The screenshots provide evidence of the procedures performed in Galaxy.
 
 ## Galaxy Workflow / History Link
 
-**Galaxy History:** https://galaxy-main.usegalaxy.org/u/ivan_behante/h/sex-dosage-carabao 
+**Galaxy History:** https://galaxy-main.usegalaxy.org/u/ivan_behante/h/sex-dosage-species
 
 
 ## Notes
