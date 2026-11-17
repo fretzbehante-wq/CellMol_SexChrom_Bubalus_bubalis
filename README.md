@@ -120,3 +120,4 @@ The X:A ratio suggests an XY-like dosage pattern, which is consistent with the r
 2. [NCBI SRA: SRR27345303](https://www.ncbi.nlm.nih.gov/sra/?term=SRR27345303)
 3. [NCBI BioSample: SAMN39114650](https://www.ncbi.nlm.nih.gov/biosample/SAMN39114650)
 4. [Galaxy Platform](https://usegalaxy.org/)
+5. RStudio
